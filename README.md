@@ -1,1 +1,1 @@
-# cs1531-lab08
+# lab07-car-rental-app
